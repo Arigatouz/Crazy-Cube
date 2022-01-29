@@ -28,10 +28,10 @@ h2 {
   margin: 20px;
   background: linear-gradient(
     to right bottom,
-    rgb(218, 60, 60),
-    rgb(218, 123, 60),
-    rgb(99, 154, 206),
-    rgb(99, 99, 206)
+    #d2ee97,
+    #ff96ab,
+    #b1efff,
+    #ffe081
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -75,10 +75,10 @@ section.settings {
   height: 150px;
   background: linear-gradient(
     to right bottom,
-    rgb(218, 60, 60),
-    rgb(218, 123, 60),
-    rgb(99, 154, 206),
-    rgb(99, 99, 206)
+    #d2ee97,
+    #ff96ab,
+    #b1efff,
+    #ffe081
   );
 }
 
