@@ -29,7 +29,7 @@ let vm = Vue.createApp({
       this.rotateX = 0;
       this.rotateY = 0;
       this.rotateZ = 0;
-      this.prospective = 100;
+      this.perspective = 100;
       console.log("reset");
     },
     copy() {
